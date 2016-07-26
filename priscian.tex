@@ -1,0 +1,69 @@
+%!TEX TS-program = xelatex 
+%!TEX TS-options = -synctex=1 -output-driver="xdvipdfmx -q -E"
+%!TEX encoding = UTF-8 Unicode
+%
+%  priscian
+%
+%  Created by Mark Eli Kalderon on 2016-07-26.
+%  Copyright (c) 2016. All rights reserved.
+%
+
+\documentclass[12pt]{article} 
+
+% Definitions
+\newcommand\mykeywords{Priscian, perception}
+\newcommand\myauthor{Mark Eli Kalderon}
+\newcommand\mytitle{Priscian on Perception}
+
+% Packages
+\usepackage{geometry} \geometry{a4paper} 
+\usepackage{url}
+% \usepackage{txfonts}
+\usepackage{color}
+\usepackage{enumerate}
+\definecolor{gray}{rgb}{0.459,0.438,0.471}
+% \usepackage{setspace}
+% \doublespace % Uncomment for doublespacing if necessary
+% \usepackage{epigraph} % optional
+
+% XeTeX
+\usepackage[cm-default]{fontspec}
+\usepackage{xltxtra,xunicode}
+\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
+\setmainfont{Hoefler Text}
+
+% Bibliography
+\usepackage[round]{natbib}
+
+% Title Information
+\title{\mytitle}
+\author{\myauthor} 
+\date{} % Leave blank for no date, comment out for most recent date
+
+% PDF Stuff
+\usepackage[plainpages=false, pdfpagelabels, bookmarksnumbered, backref, pdftitle={\mytitle}, pdfauthor={\myauthor}, pdfkeywords={\mykeywords}, xetex, colorlinks=true, citecolor=gray, linkcolor=gray, urlcolor=gray, unicode=true]{hyperref} 
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+% Title Page
+\maketitle
+% \begin{abstract} % optional
+% \noindent
+% \end{abstract}
+% \vskip 2em \hrule height 0.4pt \vskip 2em
+% \epigraph{} % optional; make sure to uncomment \usepackage{epigraph}
+
+% Layout Settings
+\setlength{\parindent}{1em}
+
+% Main Content
+
+
+
+% No cite
+
+\bibliographystyle{plainnat}
+\bibliography{Philosophy}
+
+\end{document}
