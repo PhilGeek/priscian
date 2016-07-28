@@ -171,10 +171,15 @@ TSWLatexianTemp*
 *.sav
 
 # Texpad
-.texpadtmp
+*.texpadtmp
 
 # Kile
 *.backup
 
 # KBibTeX
 *~[0-9]*
+
+# Misc
+*.pdf
+*.lb
+
