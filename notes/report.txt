@@ -1,0 +1,26 @@
+REPORT ON PHRO-1616
+
+In my view the paper is a good piece of scholarship and worthy of airing. I agree with what I take to be the main thesis, that the activity of the sensitive faculty involves judgement in a more cognitively loaded sense (p. 7 ff.). I particularly like the approach to link Priscian’s theory to later developments and set it into a more systematic context. This said, I suggest that some revisions can be made.
+
+On p. 4, 2nd par. On discussing the sensitive soul the author may make it clear that the different ‘souls’ are not numerically distinct entities but one and same item in different capacities (‘lives’ in Neoplatonic jargon).
+
+On p. 5, line 5 from below. The discussion of the phrase ‘κατὰ τὸν λόγον’ (DA 424a24) may be supplemented by referring to Ross’ suggestion (in his edition plus commentary p. 264) that here λόγος means relation or faculty of the organ. Moreover, if we insist on the explanatory character of καί between τοιονδί and κατὰ – of which I am not convinced – we may not keep the comma after τοιονδί.
+
+On p. 11 (1st line) the author may make it clear what is to be meant by life inhering in the sense-organ. So far, it is a paraphrase (the quotation on p. 11 is of the Greek text 1.22-2.1 (not 1.24-2.1)). And I am not quite sure where the paraphrased text is; in 2.20-1 Priscian says that ἐν τῇ ἐμφάσει τῆς ζωῆς τῇ [ἐν] τῷ αἰσθητηρίῳ ἀπὸ τῆς ψυχῆς ἐνδιδομένῃ, which implies that properly speaking the sense-organ does not have the full life/faculty of sense-perception, only its appearance (imperfect copy) and it receives it from the soul. If there is a “life” in the sense-organ, it must a weakened version of the psychic life that completes the living being and contains the form (2.24-5). Moreover, I always had trouble with understanding κίνημα here (e.g. in 2.6 and 19); it is translated as “motion” (see p. 10-1), although it is not a κίνησις. I would prefer “phase of motion”. In 2.6 we are told that this κίνημα in the sense-organ, and not the sense-organ itself, is assimilated to
+the form of external objects.
+
+It may well be that one of the motivating forces for Priscian to reduce the role of passive affection from without is the account of vision in Tim. 45B ff. (see p. 13 at bottom), but as we do not have any explicit reference to that work here it may be better to recur to the general Neoplatonic thesis (originated in Plotinus) that the soul must be apathes from external impacts. Plato’s picture does not refer to apatheia (nor to the transmission of forms, for that matter).
+
+On p. 15-16 the author must be careful since first s/he says that “what has been received is, at best, a corporeal likeness” (15) whereas later on, rightly to my mind, claims that “in seeing a white thing, the eye does not, in this way, become white” (16).
+
+On p. 16 there is a typo; the reference may be to 2.25-6, not to 225-6.
+
+On p. 19 the author offers a speculative reconciliation projection and reversion. The argument is persuasive but we do not have to go that far since projection (procession) and reversion are not necessarily simultaneous processes, which means that there is no contradiction between them.
+
+On p. 20 it is not clear what the author means by the quasi-conceptual character of logoi. Some commentators (e.g., R. Sorabji, Animal Minds and Human Morals. London: Duckworth, 1993, 48) argued that they are concepts with an active character.
+
+On p. 21 the reference to Aristotle’s De mem. 450a25-451a1 is not to phantasia (the capacity) but to phantasma (representational image).
+
+On p. 30 the author mentions Pseudo-Simplicius without going into details. It would be nice if s/he could elaborate on this point a little bit – referring to passages with parallel approaches, for instance.
+
+I think it would be also useful to discuss Steel’s ‘Breathing Thought: Proclus on the Innate Knowledge of the Soul’ (in: John J. Cleary (ed.), The Perennial Tradition of Neoplatonism. Leuven: Leuven University Press. pp. 293-309 (1997)) even if it deals with Proclus primarily, it contains many useful points on the projectivist theories in late antiquity in general.
